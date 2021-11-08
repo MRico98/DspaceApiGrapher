@@ -1,0 +1,3874 @@
+[
+    {
+      "id": 252,
+      "name": "Anotaciones",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 675
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 90
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "name": "Artículos",
+      "numberItems": 671,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 671
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 82
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "name": "Capítulos de libro",
+      "numberItems": 3,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 3
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 8
+        }
+      ]
+    },
+    {
+      "id": 253,
+      "name": "Contribuciones al periodicismo",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "name": "Hojas de trabajo",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "name": "Lecturas",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "name": "Libros",
+      "numberItems": 1,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 1
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "name": "Objetos de conferencia",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 255,
+      "name": "Otros",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "name": "Patentes",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "name": "Pre impresiones",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 256,
+      "name": "Proyectos",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "name": "Reportes",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "name": "Revisiones",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 244,
+      "name": "Tesis de Doctorado",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "name": "Tesis de Maestría",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "name": "Anotaciones",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 675
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 90
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "name": "Artículos",
+      "numberItems": 671,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 671
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 82
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "name": "Capítulos de libro",
+      "numberItems": 3,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 3
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 8
+        }
+      ]
+    },
+    {
+      "id": 253,
+      "name": "Contribuciones al periodicismo",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "name": "Hojas de trabajo",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "name": "Lecturas",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "name": "Libros",
+      "numberItems": 1,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 1
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "name": "Objetos de conferencia",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 255,
+      "name": "Otros",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "name": "Patentes",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "name": "Pre impresiones",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 256,
+      "name": "Proyectos",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "name": "Reportes",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "name": "Revisiones",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 244,
+      "name": "Tesis de Doctorado",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "name": "Tesis de Maestría",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "name": "Anotaciones",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 675
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 90
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "name": "Artículos",
+      "numberItems": 671,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 671
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 82
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "name": "Capítulos de libro",
+      "numberItems": 3,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 3
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 8
+        }
+      ]
+    },
+    {
+      "id": 253,
+      "name": "Contribuciones al periodicismo",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "name": "Hojas de trabajo",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "name": "Lecturas",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "name": "Libros",
+      "numberItems": 1,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 1
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "name": "Objetos de conferencia",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 255,
+      "name": "Otros",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "name": "Patentes",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "name": "Pre impresiones",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 256,
+      "name": "Proyectos",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "name": "Reportes",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "name": "Revisiones",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 244,
+      "name": "Tesis de Doctorado",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "name": "Tesis de Maestría",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "name": "Anotaciones",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 675
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 90
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "name": "Artículos",
+      "numberItems": 671,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 671
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 82
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "name": "Capítulos de libro",
+      "numberItems": 3,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 3
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 8
+        }
+      ]
+    },
+    {
+      "id": 253,
+      "name": "Contribuciones al periodicismo",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "name": "Hojas de trabajo",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "name": "Lecturas",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "name": "Libros",
+      "numberItems": 1,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 1
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "name": "Objetos de conferencia",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 255,
+      "name": "Otros",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "name": "Patentes",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "name": "Pre impresiones",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 256,
+      "name": "Proyectos",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "name": "Reportes",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "name": "Revisiones",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 244,
+      "name": "Tesis de Doctorado",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "name": "Tesis de Maestría",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "name": "Anotaciones",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 675
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 90
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "name": "Artículos",
+      "numberItems": 671,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 671
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 82
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "name": "Capítulos de libro",
+      "numberItems": 3,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 3
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 8
+        }
+      ]
+    },
+    {
+      "id": 253,
+      "name": "Contribuciones al periodicismo",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "name": "Hojas de trabajo",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "name": "Lecturas",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "name": "Libros",
+      "numberItems": 1,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 1
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "name": "Objetos de conferencia",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 255,
+      "name": "Otros",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "name": "Patentes",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "name": "Pre impresiones",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 256,
+      "name": "Proyectos",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "name": "Reportes",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "name": "Revisiones",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 244,
+      "name": "Tesis de Doctorado",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "name": "Tesis de Maestría",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "name": "Anotaciones",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 675
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 90
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "name": "Artículos",
+      "numberItems": 671,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 671
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 82
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "name": "Capítulos de libro",
+      "numberItems": 3,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 3
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 8
+        }
+      ]
+    },
+    {
+      "id": 253,
+      "name": "Contribuciones al periodicismo",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "name": "Hojas de trabajo",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "name": "Lecturas",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "name": "Libros",
+      "numberItems": 1,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 1
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "name": "Objetos de conferencia",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 255,
+      "name": "Otros",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "name": "Patentes",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "name": "Pre impresiones",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 256,
+      "name": "Proyectos",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "name": "Reportes",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "name": "Revisiones",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 244,
+      "name": "Tesis de Doctorado",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "name": "Tesis de Maestría",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "name": "Anotaciones",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 675
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 90
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "name": "Artículos",
+      "numberItems": 671,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 671
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 82
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "name": "Capítulos de libro",
+      "numberItems": 3,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 3
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 8
+        }
+      ]
+    },
+    {
+      "id": 253,
+      "name": "Contribuciones al periodicismo",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "name": "Hojas de trabajo",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "name": "Lecturas",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "name": "Libros",
+      "numberItems": 1,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 1
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "name": "Objetos de conferencia",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 255,
+      "name": "Otros",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "name": "Patentes",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "name": "Pre impresiones",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 256,
+      "name": "Proyectos",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "name": "Reportes",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "name": "Revisiones",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 244,
+      "name": "Tesis de Doctorado",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "name": "Tesis de Maestría",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "name": "Anotaciones",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 675
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 90
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "name": "Artículos",
+      "numberItems": 671,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 671
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 82
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "name": "Capítulos de libro",
+      "numberItems": 3,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 3
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 8
+        }
+      ]
+    },
+    {
+      "id": 253,
+      "name": "Contribuciones al periodicismo",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "name": "Hojas de trabajo",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "name": "Lecturas",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "name": "Libros",
+      "numberItems": 1,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 1
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "name": "Objetos de conferencia",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 255,
+      "name": "Otros",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "name": "Patentes",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "name": "Pre impresiones",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 256,
+      "name": "Proyectos",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "name": "Reportes",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "name": "Revisiones",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 244,
+      "name": "Tesis de Doctorado",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "name": "Tesis de Maestría",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "name": "Anotaciones",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 675
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 90
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "name": "Artículos",
+      "numberItems": 671,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 671
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 82
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "name": "Capítulos de libro",
+      "numberItems": 3,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 3
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 8
+        }
+      ]
+    },
+    {
+      "id": 253,
+      "name": "Contribuciones al periodicismo",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "name": "Hojas de trabajo",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "name": "Lecturas",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "name": "Libros",
+      "numberItems": 1,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 1
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "name": "Objetos de conferencia",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 255,
+      "name": "Otros",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "name": "Patentes",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "name": "Pre impresiones",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 256,
+      "name": "Proyectos",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "name": "Reportes",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "name": "Revisiones",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 244,
+      "name": "Tesis de Doctorado",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "name": "Tesis de Maestría",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "name": "Anotaciones",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 675
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 90
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "name": "Artículos",
+      "numberItems": 671,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 671
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 82
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "name": "Capítulos de libro",
+      "numberItems": 3,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 3
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 8
+        }
+      ]
+    },
+    {
+      "id": 253,
+      "name": "Contribuciones al periodicismo",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "name": "Hojas de trabajo",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "name": "Lecturas",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "name": "Libros",
+      "numberItems": 1,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 1
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "name": "Objetos de conferencia",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 255,
+      "name": "Otros",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "name": "Patentes",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "name": "Pre impresiones",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 256,
+      "name": "Proyectos",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "name": "Reportes",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "name": "Revisiones",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 244,
+      "name": "Tesis de Doctorado",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "name": "Tesis de Maestría",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "name": "Anotaciones",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 675
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 90
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "name": "Artículos",
+      "numberItems": 671,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 671
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 82
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "name": "Capítulos de libro",
+      "numberItems": 3,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 3
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 8
+        }
+      ]
+    },
+    {
+      "id": 253,
+      "name": "Contribuciones al periodicismo",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "name": "Hojas de trabajo",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "name": "Lecturas",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "name": "Libros",
+      "numberItems": 1,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 1
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "name": "Objetos de conferencia",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 255,
+      "name": "Otros",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "name": "Patentes",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "name": "Pre impresiones",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 256,
+      "name": "Proyectos",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "name": "Reportes",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "name": "Revisiones",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 244,
+      "name": "Tesis de Doctorado",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "name": "Tesis de Maestría",
+      "numberItems": 0,
+      "items": [
+        {
+          "id": 22,
+          "name": "Bachillerato en Línea",
+          "countItems": 0
+        },
+        {
+          "id": 16,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        },
+        {
+          "id": 15,
+          "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+          "countItems": 0
+        }
+      ]
+    }
+  ]
