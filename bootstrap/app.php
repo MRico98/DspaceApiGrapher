@@ -112,4 +112,8 @@ $app->router->group([
     require __DIR__.'/../routes/web.php';
 });
 
+$app->routeMiddleware([
+    'collectionMiddleware' => App\Http\Middleware\CollectionsMiddleware::class
+]);
+
 return $app;

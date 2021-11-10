@@ -14,18 +14,5 @@ abstract class JsonSerializer
             json_decode($jsonString),array(),$actualClass
         );
         return $objecsArray;
-        /*
-        $actualClassInstance = new $actualClass();
-        $jsonDecoded = json_decode($jsonString);
-        foreach($jsonDecoded as $key => $value)
-        {
-            if(!property_exists($actualClassInstance, $key))
-            {
-                continue;
-            }
-            $actualClassInstance->{$key} = $value;
-        }
-        return $actualClassInstance;
-        */
     }
 }

@@ -13,4 +13,4 @@
 |
 */
 
-$router->get('/api/collections', 'CollectionController@getCollections');
+$router->get('/api/collections', ['middleware' => 'collectionMiddleware','uses' => 'CollectionController@getCollections']);
