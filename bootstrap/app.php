@@ -116,4 +116,8 @@ $app->routeMiddleware([
     'collectionMiddleware' => App\Http\Middleware\CollectionsMiddleware::class
 ]);
 
+$app->routeMiddleware([
+    'communitiesMiddleware' => App\Http\Middleware\CommunitiesMiddleware::class
+]);
+
 return $app;
