@@ -14,3 +14,5 @@
 */
 
 $router->get('/api/collections', ['middleware' => 'collectionMiddleware','uses' => 'CollectionController@getCollections']);
+
+$router->get('/api/communities', ['middleware' => 'communitiesMiddleware','uses' => 'CommunitiesController@getCommunities']);

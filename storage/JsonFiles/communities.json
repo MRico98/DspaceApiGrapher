@@ -1,0 +1,263 @@
+[
+    {
+      "id": 22,
+      "name": "Bachillerato en Línea",
+      "countItems": 0,
+      "items": [
+        {
+          "id": 348,
+          "name": "Anotaciones",
+          "numberItems": 0
+        },
+        {
+          "id": 338,
+          "name": "Artículos",
+          "numberItems": 0
+        },
+        {
+          "id": 341,
+          "name": "Capítulos de libro",
+          "numberItems": 0
+        },
+        {
+          "id": 349,
+          "name": "Contribuciones al periodicismo",
+          "numberItems": 0
+        },
+        {
+          "id": 345,
+          "name": "Hojas de trabajo",
+          "numberItems": 0
+        },
+        {
+          "id": 344,
+          "name": "Lecturas",
+          "numberItems": 0
+        },
+        {
+          "id": 337,
+          "name": "Libros",
+          "numberItems": 0
+        },
+        {
+          "id": 343,
+          "name": "Objetos de conferencia",
+          "numberItems": 0
+        },
+        {
+          "id": 351,
+          "name": "Otros",
+          "numberItems": 0
+        },
+        {
+          "id": 350,
+          "name": "Patentes",
+          "numberItems": 0
+        },
+        {
+          "id": 346,
+          "name": "Pre impresiones",
+          "numberItems": 0
+        },
+        {
+          "id": 352,
+          "name": "Proyectos",
+          "numberItems": 0
+        },
+        {
+          "id": 347,
+          "name": "Reportes",
+          "numberItems": 0
+        },
+        {
+          "id": 342,
+          "name": "Revisiones",
+          "numberItems": 0
+        },
+        {
+          "id": 340,
+          "name": "Tesis de Doctorado",
+          "numberItems": 0
+        },
+        {
+          "id": 339,
+          "name": "Tesis de Maestría",
+          "numberItems": 0
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+      "countItems": 675,
+      "items": [
+        {
+          "id": 252,
+          "name": "Anotaciones",
+          "numberItems": 0
+        },
+        {
+          "id": 242,
+          "name": "Artículos",
+          "numberItems": 671
+        },
+        {
+          "id": 245,
+          "name": "Capítulos de libro",
+          "numberItems": 3
+        },
+        {
+          "id": 253,
+          "name": "Contribuciones al periodicismo",
+          "numberItems": 0
+        },
+        {
+          "id": 249,
+          "name": "Hojas de trabajo",
+          "numberItems": 0
+        },
+        {
+          "id": 248,
+          "name": "Lecturas",
+          "numberItems": 0
+        },
+        {
+          "id": 241,
+          "name": "Libros",
+          "numberItems": 1
+        },
+        {
+          "id": 247,
+          "name": "Objetos de conferencia",
+          "numberItems": 0
+        },
+        {
+          "id": 255,
+          "name": "Otros",
+          "numberItems": 0
+        },
+        {
+          "id": 254,
+          "name": "Patentes",
+          "numberItems": 0
+        },
+        {
+          "id": 250,
+          "name": "Pre impresiones",
+          "numberItems": 0
+        },
+        {
+          "id": 256,
+          "name": "Proyectos",
+          "numberItems": 0
+        },
+        {
+          "id": 251,
+          "name": "Reportes",
+          "numberItems": 0
+        },
+        {
+          "id": 246,
+          "name": "Revisiones",
+          "numberItems": 0
+        },
+        {
+          "id": 244,
+          "name": "Tesis de Doctorado",
+          "numberItems": 0
+        },
+        {
+          "id": 243,
+          "name": "Tesis de Maestría",
+          "numberItems": 0
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Centro de Investigaciones Regionales \"Dr. Hideyo Noguchi\"",
+      "countItems": 90,
+      "items": [
+        {
+          "id": 236,
+          "name": "Anotaciones",
+          "numberItems": 0
+        },
+        {
+          "id": 226,
+          "name": "Artículos",
+          "numberItems": 82
+        },
+        {
+          "id": 229,
+          "name": "Capítulos de libro",
+          "numberItems": 8
+        },
+        {
+          "id": 237,
+          "name": "Contribuciones al periodicismo",
+          "numberItems": 0
+        },
+        {
+          "id": 233,
+          "name": "Hojas de trabajo",
+          "numberItems": 0
+        },
+        {
+          "id": 232,
+          "name": "Lecturas",
+          "numberItems": 0
+        },
+        {
+          "id": 225,
+          "name": "Libros",
+          "numberItems": 0
+        },
+        {
+          "id": 231,
+          "name": "Objetos de conferencia",
+          "numberItems": 0
+        },
+        {
+          "id": 239,
+          "name": "Otros",
+          "numberItems": 0
+        },
+        {
+          "id": 238,
+          "name": "Patentes",
+          "numberItems": 0
+        },
+        {
+          "id": 234,
+          "name": "Pre impresiones",
+          "numberItems": 0
+        },
+        {
+          "id": 240,
+          "name": "Proyectos",
+          "numberItems": 0
+        },
+        {
+          "id": 235,
+          "name": "Reportes",
+          "numberItems": 0
+        },
+        {
+          "id": 230,
+          "name": "Revisiones",
+          "numberItems": 0
+        },
+        {
+          "id": 228,
+          "name": "Tesis de Doctorado",
+          "numberItems": 0
+        },
+        {
+          "id": 227,
+          "name": "Tesis de Maestría",
+          "numberItems": 0
+        }
+      ]
+    }
+  ]
