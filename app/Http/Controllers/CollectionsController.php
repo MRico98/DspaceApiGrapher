@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use App\Services\ICollectionService;
 use Laravel\Lumen\Routing\Controller as BaseController;
 
-class CollectionController extends BaseController
+class CollectionsController extends BaseController
 {
     private $collectionService;
 
