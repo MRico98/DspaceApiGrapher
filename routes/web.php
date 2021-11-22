@@ -13,6 +13,8 @@
 |
 */
 
-$router->get('/', function () use ($router) {
-    return $router->app->version();
-});
+$router->get('/api/collections', ['middleware' => 'collectionMiddleware','uses' => 'CollectionsController@getCollections']);
+
+$router->get('/api/communities', ['middleware' => 'communitiesMiddleware','uses' => 'CommunitiesController@getCommunities']);
+
+$router->post('/api/indexing','IndexingController@setDspaceInformation');
