@@ -18,7 +18,8 @@ La siguiente aplicacion es una api hecha en Lumen la cual recopila informacion d
 
 ### Ejecutando el programa
 
-1. php -S localhost:8000 -t public
+1. composer install
+2. php -S localhost:8000 -t public
 
 ## Ayuda
 
